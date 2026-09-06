@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra Workflows"
+  short_description: "15 workflows for code and product work"
+  default_prompt: "Use $astra-workflows to plan this feature and define its verification steps."
