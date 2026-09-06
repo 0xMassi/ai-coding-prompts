@@ -1,8 +1,10 @@
-# 15 Astra prompts for real projects
+# AI Coding Prompts
 
 ![Black-and-white editorial cover: 15 prompts for real projects](assets/cover.png)
 
-Copy a prompt or install the **Astra Workflows** skill for Codex or Claude Code. Choose a task, define its scope, and give the agent the tools to verify its work.
+**15 prompts and an installable skill for Codex and Claude Code.** Use them for code review, performance work, feature planning, competitor research, and SEO/GEO audits.
+
+Copy a prompt or install **Astra Workflows**. Choose one task, define its scope, and give the agent the tools to verify its work.
 
 [Theo shared six ways he uses Astra](https://x.com/theo/status/2095966874010046621): code cleanup, performance work, agent setup, PR and issue triage, merging, and taking over stalled work. I wrote a prompt for each and added nine for tasks such as feature planning, competitor research, and SEO/GEO audits.
 
@@ -41,8 +43,8 @@ The skill reads the shared instructions and the workflow you select. It uses the
 Clone this repository into a new folder:
 
 ```sh
-git clone https://github.com/0xMassi/astra-prompts.git
-cd astra-prompts
+git clone https://github.com/0xMassi/ai-coding-prompts.git
+cd ai-coding-prompts
 ```
 
 Run the command for your agent from the cloned repository. These commands stop if a folder or symlink named `astra-workflows` exists at the destination.
